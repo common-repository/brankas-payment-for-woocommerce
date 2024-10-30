@@ -1,0 +1,23 @@
+.list-bank-options {
+    display: block;
+    width:300px;
+    height:auto;
+}
+
+.block-bank-item {
+    display: block;
+    width: 400px;
+    height: 60px;
+    margin: 10px 0;
+    padding: 15px 0;
+    background: white;
+    border-color: #0f0f0f;
+    border-radius: 5px;
+}
+
+.image-bank-item {
+    float: right;
+    width: 50px !important;
+    height: 30px !important;
+    margin: 5px;
+}
